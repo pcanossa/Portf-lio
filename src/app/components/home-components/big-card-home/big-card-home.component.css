@@ -1,0 +1,35 @@
+.foto {
+  max-width: 163px;
+  height: auto;
+  border-radius: 100%;
+  padding: 15px;
+}
+
+.icones ul {
+  margin-bottom: 0px;
+  padding: 25px;
+}
+
+.icones ul li {
+  list-style: none;
+}
+
+
+.icon {
+  background-color: white;
+  max-width: 42px;
+  max-height: 36px;
+  border-radius: 10px;
+}
+
+h1 {
+  color: #00D916;
+  padding-top: 15px;
+  font-family: 'Inria Sans', sans-serif;
+  font-weight: 400;
+}
+
+.wave {
+  margin-bottom: 0;
+  padding: 0;
+}
